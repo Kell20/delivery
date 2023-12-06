@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KamPilot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KamPilot_jar</output-path>
+    <root id="archive" name="KamPilot.jar">
+      <element id="module-output" name="core" />
+      <element id="module-output" name="app" />
+      <element id="module-output" name="cli" />
+    </root>
+  </artifact>
+</component>
